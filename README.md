@@ -1,8 +1,38 @@
-# React + Vite
+# My 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my 3D portfolio website showcasing all my project and work experiences.
 
-Currently, two official plugins are available:
+## Project Introduction
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a 3D portfolio website developed using technologies such as React and Three.js.
+
+## Tech Stack
+
+- React
+- Three.js
+- React-Three/Fiber
+- React-Three/Drei
+- Framer-Motion
+- React-Router-Dom
+- React-Tilt
+- React-Vertical-Timeline-Component
+
+## How to Run
+
+First, clone this repository:
+
+```bash
+git clone https://github.com/yourusername/my-3d-portfolio.git
+
+Then, install the dependencies:
+
+cd my-3d-portfolio
+
+pnpm install
+
+Finally, run the development server:
+
+pnpm run dev
+
+Now, you can open http://localhost:xxxx in your browser to view the website.
+```
